@@ -1,0 +1,29 @@
+[
+  {
+    "session": "Session 1: Consciousness and Perception",
+    "day": "2025-06-14",
+    "type": "Talk",
+    "presentations": [
+      {"title": "The binding problem", "presenter": "Alice Example", "time": "09:00"},
+      {"title": "Visual illusions", "presenter": "Bob Example", "time": "09:30"}
+    ]
+  },
+  {
+    "session": "Session 2: Neural Correlates",
+    "day": "2025-06-14",
+    "type": "Poster",
+    "presentations": [
+      {"title": "Neural circuits", "presenter": "Carol Example", "time": "12:00"},
+      {"title": "Brain mapping", "presenter": "Dave Example", "time": "12:30"}
+    ]
+  },
+  {
+    "session": "Session 3: Philosophy of Mind",
+    "day": "2025-06-15",
+    "type": "Talk",
+    "presentations": [
+      {"title": "Qualia question", "presenter": "Eve Example", "time": "10:00"},
+      {"title": "Free will debate", "presenter": "Frank Example", "time": "10:30"}
+    ]
+  }
+]
